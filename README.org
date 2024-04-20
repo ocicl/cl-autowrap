@@ -4,6 +4,6 @@
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/rpav/cl-autowrap.git |
-| commit  | 1c5c070                                     |
+| commit  | 4bba9e3                                     |
 | systems | cl-autowrap cl-plus-c                       |
 |---------+---------------------------------------------|
